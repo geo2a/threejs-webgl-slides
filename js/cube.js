@@ -31,8 +31,8 @@ function init() {
   ////////////
   
   // var SCREEN_WIDTH = window.innerWidth, SCREEN_HEIGHT = window.innerHeight; 
-  var SCREEN_WIDTH = document.getElementById('bored').clientWidth, 
-      SCREEN_HEIGHT = document.getElementById('bored').clientHeight;
+  var SCREEN_WIDTH = document.getElementById('title-slide').clientWidth, 
+      SCREEN_HEIGHT = document.getElementById('title-slide').clientHeight;
   // camera attributes
   var VIEW_ANGLE = 45, ASPECT = SCREEN_WIDTH / SCREEN_HEIGHT, NEAR = 1, FAR = 10000;
   // set up camera
