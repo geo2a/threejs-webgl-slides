@@ -5,20 +5,10 @@
 var container, scene, camera, renderer, controls;
 var clock = new THREE.Clock();
 
-// SOLAR SYSTEM OBJECTS
-
-  var t = 0; //for orbits 
-
-  // SUN
-  var sun, sun_geometry, sun_material;
-  var SUN_RADIUS = 430, SUN_ROTATION_SPEED = 0.001;
-
-  // EARTH
-  var earth, earth_geometry, earth_material;
-  var EARTH_RADIUS           = 50, 
-      EARTH_ROTATION_SPEED = 0.001, 
-      EARTH_POSITION_X     = 1500;  
-
+// CUBE
+var cube, cubeGeometry, cubeMaterial;
+var CUBE_EDGE_LENGTH    = 500,
+    CUBE_ROTATION_SPEED = 0.001;
 
 // initialization
 init();
@@ -49,7 +39,7 @@ function init() {
   camera = new THREE.PerspectiveCamera( VIEW_ANGLE, ASPECT, NEAR, FAR);
   // add the camera to the scene
   scene.add(camera);
-  camera.position.z = 3300;
+  camera.position.z = 2000;
   camera.lookAt(scene.position);  
   
   //////////////
@@ -60,7 +50,7 @@ function init() {
   renderer = new THREE.WebGLRenderer( {antialias:true, alpha: true} );
   renderer.setSize(SCREEN_WIDTH, SCREEN_HEIGHT);
   // attach div element to variable to contain the renderer
-  container = document.getElementById( 'planet' );
+  container = document.getElementById( 'cube' );
   
   // attach renderer to the container div
   container.appendChild( renderer.domElement );
@@ -73,23 +63,18 @@ function init() {
   //                 right  click to pan
   controls = new THREE.OrbitControls( camera, renderer.domElement );
 
-  /////////////////
-  // SUN AND CO. //
-  /////////////////
+  //////////
+  // CUBE //
+  //////////
 
-  //SUN
-  sun_geometry = new THREE.SphereGeometry(SUN_RADIUS,30,30);
-  sun_material = new THREE.MeshNormalMaterial();
-  sun = new THREE.Mesh(sun_geometry, sun_material);
-  scene.add(sun);
-
-  //EARTH
-  earth_geometry = new THREE.SphereGeometry(EARTH_RADIUS,20,20);
-  earth_material = new THREE.MeshNormalMaterial();
-  earth = new THREE.Mesh(earth_geometry, earth_material);
-  scene.add(earth);
-  earth.position.x = EARTH_POSITION_X;
-  
+  cubeGeometry = new THREE.BoxGeometry( CUBE_EDGE_LENGTH, 
+    CUBE_EDGE_LENGTH,CUBE_EDGE_LENGTH, 6, 6, 6);
+  cubeMaterial = new THREE.MeshBasicMaterial( { 
+    color: 0x2980b9, 
+    wireframe: true
+  } );
+  cube = new THREE.Mesh( cubeGeometry, cubeMaterial );
+  scene.add(cube);
 }
 
 function animate() {
@@ -104,19 +89,6 @@ function update() {
 
 function render() { 
   renderer.render( scene, camera );
-
-    sun.rotation.y += SUN_ROTATION_SPEED;
-
-    earth.position.x = Math.sin(t*0.1)*EARTH_POSITION_X;
-    earth.position.z = Math.cos(t*0.1)*EARTH_POSITION_X;
-
-    t += Math.PI/180*2;
-}
-
-function cartesianToPolar(x, y) {
-  return [Math.sqrt(x*x + y*y), Math.atan2(y, x)];
-}
-
-function polar2cartesian(R, theta) {
-    return [R * Math.cos(theta), R * Math.sin(theta)];
+    cube.rotation.x += CUBE_ROTATION_SPEED;
+    cube.rotation.y += CUBE_ROTATION_SPEED;
 }
