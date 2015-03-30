@@ -1,11 +1,7 @@
-# План презентации о WebGL и Three.js
+# Презентация о WebGL и Three.js
 
-## История развития поддержки 3D-графики в вебе
+P.S. При подготовке презентации  использовался фреймворк [impress.js] (https://github.com/bartaz/impress.js/)
 
+## Как запустить
 
-
-## Список источников
-
-* [Learning Three.js: The JavaScript 3D Library for WebGL](http://it-ebooks.info/book/3184/) by Jos Dirksen
-
-## P.S. При подготовке презентации  использовался фреймворк [impress.js] (https://github.com/bartaz/impress.js/)
+Открыть index.html в любом современном браузере, поддерживающем WebGL, CSS3 
