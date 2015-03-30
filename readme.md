@@ -1,6 +1,6 @@
 # Презентация о WebGL и Three.js
 
-P.S. При подготовке презентации  использовался фреймворк [impress.js] (https://github.com/bartaz/impress.js/)
+При подготовке презентации  использовался фреймворк [impress.js] (https://github.com/bartaz/impress.js/)
 
 ## Как запустить
 
