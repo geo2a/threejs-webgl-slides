@@ -1,0 +1,1170 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gene",
+				"genMoves"
+			],
+			[
+				"new",
+				"newPos"
+			],
+			[
+				"co",
+				"conqueredNeighbours"
+			],
+			[
+				"cha",
+				"changedPos"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"Boa",
+				"Board"
+			],
+			[
+				"Bo",
+				"Board"
+			],
+			[
+				"pa",
+				"past"
+			],
+			[
+				"a",
+				"at"
+			],
+			[
+				"coun",
+				"countGreen"
+			],
+			[
+				"move",
+				"moves"
+			],
+			[
+				"e",
+				"empty"
+			],
+			[
+				"ge",
+				"genMoves"
+			],
+			[
+				"f",
+				"first"
+			],
+			[
+				"ne",
+				"newPos"
+			],
+			[
+				"board",
+				"board"
+			],
+			[
+				"be",
+				"beta"
+			],
+			[
+				"alp",
+				"alpha"
+			],
+			[
+				"alpha",
+				"alphaBeta"
+			],
+			[
+				"I",
+				"INF"
+			],
+			[
+				"count",
+				"countRed"
+			],
+			[
+				"LEFT_DO",
+				"LEFT_DOWN_DIARG"
+			],
+			[
+				"UP_UP",
+				"UP_UP_RIGHT"
+			],
+			[
+				"RIGHT_RIG",
+				"RIGHT_RIGHT_UP"
+			],
+			[
+				"RIGHT_RI",
+				"RIGHT_RIGHT_DOWN"
+			],
+			[
+				"LEFT_",
+				"LEFT_LEFT_UP"
+			],
+			[
+				"LEFT_FE",
+				"LEFT_LEFT_DOWN"
+			],
+			[
+				"is",
+				"isOccupied"
+			],
+			[
+				"con",
+				"conqueredNeighbours"
+			],
+			[
+				"s",
+				"second"
+			],
+			[
+				"make",
+				"make_pair"
+			],
+			[
+				"in",
+				"initiative"
+			],
+			[
+				"DIRE",
+				"DIRECTIONS_STRINGS_MAP"
+			],
+			[
+				"di",
+				"DIRECTIONS_STRINGS"
+			],
+			[
+				"dir",
+				"dirCode"
+			],
+			[
+				"beg",
+				"begin"
+			],
+			[
+				"boar",
+				"BOARD_SIZE"
+			],
+			[
+				"G",
+				"GREEN"
+			],
+			[
+				"color",
+				"Color"
+			],
+			[
+				"RIGHT",
+				"RIGHT_DOWN"
+			],
+			[
+				"LEFT",
+				"LEFT_DOWN"
+			],
+			[
+				"LEF",
+				"LEFT"
+			],
+			[
+				"LE",
+				"LEFT"
+			],
+			[
+				"dire",
+				"Direction"
+			],
+			[
+				"R",
+				"RED"
+			],
+			[
+				"de",
+				"deque"
+			],
+			[
+				"for",
+				"for_each"
+			],
+			[
+				"boa",
+				"board"
+			],
+			[
+				"bo",
+				"board"
+			],
+			[
+				"print",
+				"printBoard"
+			],
+			[
+				"EA",
+				"EARTH_POSITION_X"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"SUN",
+				"SUN_ROTATION_SPEED"
+			],
+			[
+				"sun",
+				"SUN_RADIUS"
+			],
+			[
+				"sun_",
+				"sun_geometry"
+			],
+			[
+				"_",
+				"_max	Retrieves the maximum value of a collection."
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"ring",
+				"saturnRingMaterial"
+			],
+			[
+				"satu",
+				"saturnGeometry"
+			],
+			[
+				"Show",
+				"ShowBoard"
+			],
+			[
+				"S",
+				"ShowBoard"
+			],
+			[
+				"sol",
+				"solutions"
+			],
+			[
+				"Con",
+				"Console"
+			],
+			[
+				"Sts",
+				"System"
+			],
+			[
+				"C",
+				"Console"
+			],
+			[
+				"last",
+				"lastQueenPos"
+			],
+			[
+				"quen",
+				"queens"
+			],
+			[
+				"las",
+				"lastQueenPos"
+			],
+			[
+				"qu",
+				"queens"
+			],
+			[
+				"F",
+				"findSolutions"
+			],
+			[
+				"q",
+				"queens"
+			],
+			[
+				"que",
+				"queenRow"
+			],
+			[
+				"quee",
+				"queens"
+			],
+			[
+				"soluti",
+				"solutionsCount"
+			],
+			[
+				"Que",
+				"QueensProblem"
+			],
+			[
+				"mars",
+				"marsAngle"
+			],
+			[
+				"ea",
+				"earthAngle"
+			],
+			[
+				"venus",
+				"venusAngle"
+			],
+			[
+				"mer",
+				"mercuryAngle"
+			],
+			[
+				"tes",
+				"testWriter"
+			],
+			[
+				"Write",
+				"WriteLine"
+			],
+			[
+				"A",
+				"Ancestor"
+			],
+			[
+				"retu",
+				"result"
+			],
+			[
+				"set",
+				"setAncestor"
+			],
+			[
+				"get",
+				"getValue"
+			],
+			[
+				"bra",
+				"branchMul2"
+			],
+			[
+				"init",
+				"init_state"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"term",
+				"termState"
+			],
+			[
+				"build",
+				"buildTree"
+			],
+			[
+				"ma",
+				"magic_number"
+			],
+			[
+				"ter",
+				"termState"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"res",
+				"restorePath"
+			],
+			[
+				"itera",
+				"ostream_iterator"
+			],
+			[
+				"path",
+				"paths"
+			],
+			[
+				"pu",
+				"push_back"
+			],
+			[
+				"an",
+				"ancestor"
+			],
+			[
+				"nde",
+				"newNode"
+			],
+			[
+				"sk",
+				"skyTexture"
+			],
+			[
+				"draw",
+				"drawMars"
+			],
+			[
+				"merc",
+				"mercury"
+			],
+			[
+				"dr",
+				"drawMercury"
+			],
+			[
+				"mercu",
+				"mercuryGeometry"
+			],
+			[
+				"Parse",
+				"ParserState"
+			],
+			[
+				"Parser",
+				"ParserState"
+			],
+			[
+				"Po",
+				"Position"
+			],
+			[
+				"off",
+				"offside_test"
+			],
+			[
+				"def",
+				"defpos"
+			],
+			[
+				"terminal",
+				"terminal_window_id"
+			],
+			[
+				"T",
+				"TERMINAL_WINDOW_ID"
+			],
+			[
+				"TM",
+				"TextualMonoid"
+			],
+			[
+				"gen",
+				"genLine"
+			],
+			[
+				"Tex",
+				"TextualMonoid"
+			],
+			[
+				"Monad",
+				"MonadPlus"
+			],
+			[
+				"ro",
+				"rocket"
+			],
+			[
+				"rocke",
+				"rocketX"
+			],
+			[
+				"invade",
+				"invaderX"
+			],
+			[
+				"rock",
+				"rocketX"
+			],
+			[
+				"game",
+				"gameTimer"
+			],
+			[
+				"render",
+				"renderMessage"
+			],
+			[
+				"win",
+				"windowDims"
+			],
+			[
+				"In",
+				"InProcess"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"Game",
+				"GameState"
+			],
+			[
+				"shipX",
+				"shipXsignal"
+			],
+			[
+				"ship",
+				"shipSignal"
+			],
+			[
+				"inva",
+				"invaderX"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "#ifndef INFECTION_H\n#define INFECTION_H\n\n#include <unordered_map>\n#include <deque>\n#include <utility>\n#include <iostream>\n#include <string>\n#include <sstream>\n#include <iterator>\n#include <deque>\n#include <unordered_map>\n#include <utility>\n#include <algorithm>\n#include <cmath>\n#include <cstdlib>\n#include <functional>\n#include <tuple>\n\n\n\nusing namespace std;\n\nconst int BOARD_SIZE = 6;\n\nconst int INF = 100000;\n\n///////////////\n//// TYPES ////\n///////////////\n\nenum class Color {EMPTY, RED, GREEN};\n\nColor opposite( Color & x ) { \n  switch (x) {\n    case Color::RED: \n      return Color::GREEN;\n    case Color::GREEN: \n      return Color::RED;\n    default:\n      return Color::EMPTY;\n  }\n}\n\nenum class Direction {\n  LEFT, RIGHT, UP, DOWN,\n  LEFT_LEFT, RIGHT_RIGHT, UP_UP, DOWN_DOWN,\n  LEFT_UP, RIGHT_UP,\n  LEFT_DOWN, RIGHT_DOWN,\n  LEFT_LEFT_UP, LEFT_LEFT_DOWN,\n  RIGHT_RIGHT_UP, RIGHT_RIGHT_DOWN,\n  UP_UP_LEFT, UP_UP_RIGHT,\n  DOWN_DOWN_LEFT, DOWN_DOWN_RIGHT,\n  LEFT_UP_2,\n  RIGHT_UP_2,\n  LEFT_DOWN_2,\n  RIGHT_DOWN_2, \n  First=LEFT, Last=RIGHT_DOWN_2\n};\n\ninline Direction operator++( Direction& x ) { return x = (Direction)(((int)(x) + 1)); }\n\nstring colorToString(const Color c) {\n  switch (c) {\n    case Color::EMPTY: \n      return \"|\";\n    case Color::RED: \n      return \"R\";\n    case Color::GREEN: \n      return \"G\";\n  }\n}\n\nstring directionToString(const Direction direction) {\n  switch (direction) {\n    case Direction::LEFT:\n      return \"LEFT\";\n    case Direction::RIGHT: \n      return \"RIGHT\";\n    case Direction::UP: \n      return \"UP\";\n    case Direction::DOWN: \n      return \"DOWN\";\n    case Direction::LEFT_LEFT:\n      return \"LEFT_LEFT\";\n    case Direction::RIGHT_RIGHT: \n      return \"RIGHT_RIGHT\";\n    case Direction::UP_UP: \n      return \"UP_UP\";\n    case Direction::DOWN_DOWN: \n      return \"DOWN_DOWN\";\n    case Direction::LEFT_UP: \n      return \"LEFT_UP\";\n    case Direction::LEFT_DOWN: \n      return \"LEFT_DOWN\";\n    case Direction::RIGHT_UP: \n      return \"RIGHT_UP\";\n    case Direction::RIGHT_DOWN: \n      return \"RIGHT_DOWN\";\n    case Direction::LEFT_LEFT_DOWN:\n      return \"LEFT_LEFT_DOWN\";\n    case Direction::LEFT_LEFT_UP:\n      return \"LEFT_LEFT_UP\";\n    case Direction::RIGHT_RIGHT_DOWN:\n      return \"RIGHT_RIGHT_DOWN\";\n    case Direction::RIGHT_RIGHT_UP:\n      return \"RIGHT_RIGHT_UP\";\n    case Direction::UP_UP_LEFT:\n      return \"UP_UP_LEFT\";\n    case Direction::UP_UP_RIGHT:\n      return \"UP_UP_RIGHT\";\n    case Direction::RIGHT_DOWN_2:\n      return \"RIGHT_DOWN_2\";\n    case Direction::RIGHT_UP_2:\n      return \"RIGHT_UP_2\";\n    case Direction::LEFT_DOWN_2:\n      return \"LEFT_DOWN_2\";\n    case Direction::LEFT_UP_2:\n      return \"LEFT_UP_2\";\n  }\n}\n\n// using Board = deque<Color>;\n\nusing Pos = pair<int,int>;\n\nclass Move{\n  Pos from;\n  Pos to;\n  Color player;\n  deque<Pos> changed; //Positions changed by this move\n  // Move():from(0),to(0){}; \n  Move(Pos from, Pos to, Color player, deque<Pos> changed):\n    from(from), to(to), player(player), changed(changed){};\n};\n\nclass Board {\npublic: \n  deque<Color> board; \n  \n  Board() {initBoard();}\n  \n  void initBoard() {\n      for_each(board.begin(),board.end(),[](Color c){c = Color::EMPTY;});\n\n      board.at(0) = Color::RED;\n      board.at(BOARD_SIZE*BOARD_SIZE - 1) = Color::RED;\n      \n      board.at(BOARD_SIZE - 1) = Color::GREEN;\n      board.at((BOARD_SIZE - 1)*BOARD_SIZE) = Color::GREEN;\n  }\n  \n  \n\n  deque<Move> genMoves() {\n\n  }\n  void makeMove(Move move);\n  void undoMove(Move move);\n  void print();\n\n  bool isGameOver();\n\n};\n\n///////////////////\n//// UTILITIES ////\n///////////////////\n\nunordered_map<string,Direction> DIRECTIONS_STRINGS_MAP = {\n  {\"LEFT\", Direction::LEFT},\n  {\"RIGHT\", Direction::RIGHT},\n  {\"UP\", Direction::UP},\n  {\"DOWN\", Direction::DOWN},\n  {\"LEFT_LEFT\", Direction::LEFT_LEFT},\n  {\"RIGHT_RIGHT\", Direction::RIGHT_RIGHT},\n  {\"UP_UP\", Direction::UP_UP},\n  {\"DOWN_DOWN\", Direction::DOWN_DOWN},\n  {\"LEFT_UP\", Direction::LEFT_UP},\n  {\"RIGHT_UP\", Direction::RIGHT_UP},\n  {\"LEFT_DOWN\", Direction::LEFT_DOWN},\n  {\"RIGHT_DOWN\", Direction::RIGHT_DOWN},\n  {\"LEFT_LEFT_DOWN\", Direction::LEFT_LEFT_DOWN},\n  {\"LEFT_LEFT_UP\", Direction::LEFT_LEFT_UP},\n  {\"RIGHT_RIGHT_DOWN\", Direction::RIGHT_RIGHT_DOWN},\n  {\"RIGHT_RIGHT_UP\", Direction::RIGHT_RIGHT_UP},\n  {\"UP_UP_LEFT\", Direction::UP_UP_LEFT},\n  {\"UP_UP_RIGHT\", Direction::UP_UP_RIGHT},\n  {\"RIGHT_DOWN_2\", Direction::RIGHT_DOWN_2},\n  {\"RIGHT_UP_2\", Direction::RIGHT_UP_2},\n  {\"LEFT_DOWN_2\", Direction::LEFT_DOWN_2},\n  {\"LEFT_UP_2\", Direction::LEFT_UP_2}\n};\n\n#endif // INFECTION_H",
+			"file": "/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/infection/oop/infection.h",
+			"file_size": 4532,
+			"file_write_time": 130715272095973386,
+			"settings":
+			{
+				"buffer_size": 4530,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/infection/oop/main.cpp",
+			"settings":
+			{
+				"buffer_size": 275,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"project",
+				"Project: Close"
+			],
+			[
+				"syntahtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"linter",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"js",
+				"JSHint"
+			],
+			[
+				"linter ",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"insat",
+				"Package Control: Install Package"
+			],
+			[
+				"linter sett",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"linte",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"sysnjava",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"sysntaht",
+				"Set Syntax: HTML"
+			],
+			[
+				"snippet",
+				"Snippet: Get Elements"
+			],
+			[
+				"snippe",
+				"Snippet: Function"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sideba",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax ja",
+				"Set Syntax: Java"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"Instaa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"To",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"TOD",
+				"Set Syntax: Todo"
+			]
+		],
+		"width": 759.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/comp_gr/lab_1"
+	],
+	"file_history":
+	[
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/infection/infection.h",
+		"/home/geo2a/.cache/.fr-cCk48b/Antivirus EG.pas",
+		"/home/geo2a/.cache/.fr-hKhU6A/egSPL.pas",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/infection/main1.cpp",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/infection/main.cs",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/task_1_2/task1.cs",
+		"/home/geo2a/Workspace/mmcs/bachelor/2014_15/ext-effects-exploring/Main.hs",
+		"/home/geo2a/Workspace/mmcs/bachelor/2014_15/ext-effects-exploring/EffParsers.hs",
+		"/home/geo2a/Workspace/WEB/nodejs/socket.io/examples/chat/public/main.js",
+		"/home/geo2a/Workspace/mmcs/olimp/2.cs",
+		"/home/geo2a/Workspace/mmcs/olimp/2.hs",
+		"/home/geo2a/Workspace/mmcs/olimp/1.hs",
+		"/home/geo2a/Workspace/WEB/nodejs/socket.io/examples/chat/index.js",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/comp_gr/lab_1/js/solar-system.js",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/comp_gr/lab_1/task.html",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/task_1_2/task1.",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/comp_gr/lab_1/solar-system.js",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/comp_gr/lab_1/js/solar-system-old.js",
+		"/home/geo2a/Workspace/mmcs/bachelor/2014_15/markdown_monparsing/src/Main.hs",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/comp_gr/lab_1/solar-system-js.sublime-project",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/comp_gr/.gitignore",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/comp_gr/lab_1/.gitignore",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/comp_gr/lab_1/temp.js",
+		"/home/geo2a/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/geo2a/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/geo2a/.config/sublime-text-3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/comp_gr/lab_1/temp.hs",
+		"/home/geo2a/Clouds/Dropbox/olimp.txt",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/task_2/QueensBFS.cs",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/task_2/Queens.cs",
+		"/home/geo2a/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/geo2a/Workspace/mmcs/bachelor/report/readme.md",
+		"/home/geo2a/Workspace/mmcs/bachelor/report/.gitignore",
+		"/home/geo2a/Workspace/mmcs/bachelor/report/sketch.md",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/comp_gr/lab_2/task.html",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/task_2/queens/Main.cs",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/task_2/task_2.cs",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/task_2/task_2.cpp",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/task_2/queens-cs/Queens.cs",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/task_2/queens/Queens.cs",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/task_2/1.cs",
+		"/home/geo2a/Downloads/EightQueensSim/Queen.cs",
+		"/home/geo2a/Downloads/EightQueensSim/State.cs",
+		"/home/geo2a/Downloads/EightQueensSim/Form1.cs",
+		"/home/geo2a/Downloads/NQueenBFS-Step/ASQueen/Form1.cs",
+		"/home/geo2a/Downloads/NQueenBFS-Step/ASQueen/Program.cs",
+		"/home/geo2a/Downloads/NQueenBFS-Step/ASQueen/PQueue.cs",
+		"/home/geo2a/Downloads/NQueenDFS/ASQueen/Form1.cs",
+		"/home/geo2a/Downloads/NQueenDFS/ASQueen/Program.cs",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/corp-applications/readme.md",
+		"/home/geo2a/Workspace/mmcs/bachelor/2014_15/markdown_monparsing/src/Parsers/Parsers.hs",
+		"/home/geo2a/Workspace/mmcs/bachelor/readme.md",
+		"/home/geo2a/Workspace/mmcs/bachelor/2014_15/markdown_monparsing/markdown_monparsing.cabal",
+		"/home/geo2a/Workspace/mmcs/bachelor/2014_15/ext-effects-exploring/test.cabal",
+		"/home/geo2a/Workspace/mmcs/bachelor/2014_15/ext-effects-exploring/readme.md",
+		"/home/geo2a/Workspace/mmcs/bachelor/2014_15/ext-effects-exploring/Parsers.hs",
+		"/home/geo2a/Workspace/mmcs/bachelor/report/report.md",
+		"/home/geo2a/Workspace/mmcs/bachelor/2014_15/thesis_template/Makefile",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/task_1_2/task3.cpp",
+		"/home/geo2a/Downloads/task1 (1).txt",
+		"/home/geo2a/Downloads/ai.cpp",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/.gitignore",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/task_1_2/task3.cs",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/task_1_2/task4.cs",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/task_1_2/task2.cs",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/essay.md",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/readme.md",
+		"/home/geo2a/Workspace/mmcs/bachelor/2014/markdown_monparsing/sandbox/md_to_html_usage/test.html",
+		"/home/geo2a/Workspace/mmcs/bachelor/2014/markdown_monparsing/sandbox/md_to_html_usage/test.md",
+		"/home/geo2a/Workspace/mmcs/bachelor/2014/markdown_monparsing/tests/Tests.hs",
+		"/home/geo2a/Workspace/mmcs/bachelor/2014/markdown_monparsing/src/Main.hs",
+		"/home/geo2a/Workspace/mmcs/bachelor/2014/markdown_monparsing/src/Renderers/HTMLGen.hs",
+		"/home/geo2a/Workspace/mmcs/bachelor/2014/markdown_monparsing/src/Parsers/MDParse.hs",
+		"/home/geo2a/Workspace/mmcs/resume",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/task_1_2/task1_vec.cpp",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/task_1_2/task1.cpp",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/task_1_2/task2.cpp",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/task_1_2/1.hs",
+		"/home/geo2a/Workspace/mmcs/bachelor/2014/markdown_monparsing/src/Parsers/Parsers.hs",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/task_1_2/task1.hs",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/comp_gr/lab_1/deathstar.html",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/comp_gr/shared_js/OrbitControls.js",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/comp_gr/sandbox/helloWorld.html",
+		"/home/geo2a/Downloads/mrdoob-three.js-74e7d09/build/three.js",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/comp_gr/sandbox/task.html",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/comp_gr/README.MD",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/comp_gr/lab_1/task.js",
+		"/home/geo2a/Downloads/mrdoob-three.js-74e7d09/build/three.min.js",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/comp_gr/lab_1/greenCube.html",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/comp_gr/lab_1/threeJsTest.html",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/comp_gr/haskell-OpenGL-examples/haskell-OpenGL-examples.cabal",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/comp_gr/haskell-OpenGL-examples/wikibook/tutorial-01-intro/Modern.hs",
+		"/home/geo2a/Workspace/mmcs/4_year_2_sem/comp_gr/lab_1/main.hs",
+		"/home/geo2a/Workspace/mmcs/bachelor/2014/markdown_monparsing/markdown_monparsing.cabal",
+		"/etc/openal/alsoft.conf",
+		"/home/geo2a/Clouds/Dropbox/workspace.sh",
+		"/home/geo2a/Clouds/Dropbox/workspace.py",
+		"/home/geo2a/Workspace/mmcs/bachelor/2014/markdown_monparsing/src/PosParsers.hs",
+		"/home/geo2a/Workspace/mmcs/bachelor/2014/markdown_monparsing/src/SpecialList.hs",
+		"/home/geo2a/Workspace/mmcs/bachelor/2014/markdown_monparsing/src/SpecialList",
+		"/home/geo2a/Workspace/mmcs/bachelor/2014/markdown_monparsing/.gitignore",
+		"/home/geo2a/Workspace/mmcs/bachelor/2014/markdown_monparsing/sandbox/md_to_html_usage/convert.sh",
+		"/etc/pulse/client.conf",
+		"/home/geo2a/Downloads/The_Theory_of_Everything_1_2014_Rus/The Theory of Everything v2.srt",
+		"/home/geo2a/.config/pulse/daemon.conf",
+		"/etc/pulse/daemon.conf",
+		"/home/geo2a/Downloads/The_Theory_of_Everything_1_2014_Rus/The Theory of Everything v1.srt",
+		"/home/geo2a/Workspace/mmcs/db/exam/procedures.sql",
+		"/home/geo2a/Workspace/mmcs/bachelor/2014/markdown_monparsing/sandbox/PosParsers.hs",
+		"/home/geo2a/Games/The Talos Principle/Log/Talos.log",
+		"/home/geo2a/Workspace/mmcs/bachelor/2014/markdown_monparsing/cabal.sandbox.config",
+		"/home/geo2a/.cabal/config",
+		"/home/geo2a/.xmobarrc",
+		"/home/geo2a/.xmonad/xmonad.hs",
+		"/home/geo2a/.xmoba",
+		"/home/geo2a/cd",
+		"/home/geo2a/dcsdsdasdsddd",
+		"/home/geo2a/Workspace/mmcs/db/exam/queries.sql",
+		"/home/geo2a/Workspace/mmcs/db/exam/temr.sql",
+		"/home/geo2a/Downloads/Heroes of Might & Magic 2/fheroes2/README",
+		"/home/geo2a/Downloads/101 LINQ Samples/LINQ - Aggregate Operators/C#/AggregateOperators/Program.cs",
+		"/home/geo2a/Downloads/101 LINQ Samples/LINQ - Aggregate Operators/C#/AggregateOperators/ObjectDumper.cs",
+		"/home/geo2a/Workspace/WEB/js/js_sandbox/project_euler/pr4.coffee",
+		"/home/geo2a/Workspace/WEB/js/js_sandbox/project_euler/pr1.coffee",
+		"/home/geo2a/Workspace/sandbox/LaTeX/thesis/thesis.log",
+		"/home/geo2a/Workspace/sandbox/LaTeX/test/texput.log",
+		"/home/geo2a/Workspace/WEB/js/js_sandbox/project_euler/index.html",
+		"/home/geo2a/circle.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"from",
+			"changed",
+			"changedPos",
+			"deque<Pos>",
+			"deque<Color>",
+			"pair<int,int>",
+			"board",
+			"]",
+			"[",
+			"I",
+			"i",
+			"DOWN",
+			"UP",
+			"RIGHT",
+			"LEFT",
+			"DOWN",
+			"UP",
+			"RIGHT",
+			"LEFT",
+			"genPositions",
+			"Color",
+			"color",
+			"DIAG",
+			"return",
+			"LEFT",
+			"DOWN",
+			"RIGHT_DOWN",
+			"UP_DIARG",
+			"genMoves",
+			"makeMoveRed",
+			"sun",
+			"SUN",
+			"sun",
+			"SUN",
+			"scene",
+			"Scene",
+			"scene",
+			"Scene",
+			"scene",
+			"Scene",
+			"scene",
+			"Scene",
+			"scene",
+			"SCENE",
+			"scene",
+			"SCENE",
+			"scene",
+			"SCENE",
+			"scene",
+			"Scene",
+			"scene",
+			"SCENE",
+			"jupiter",
+			"Pop",
+			"Push",
+			"Stack",
+			"lastQueenPosIsValid",
+			"lastQueen",
+			"queenRow",
+			"board.Length",
+			"many",
+			"5",
+			"s.emplace_back(child(nodes[i], add3));\n  nodes.emplace_back(child(nodes[i], mul2));\n  solve(nodes, i + 1);\n  solv",
+			"vector",
+			"right",
+			"left",
+			"termState",
+			"value",
+			"orbitControls",
+			"init",
+			"newline",
+			"sound",
+			"parse",
+			"many1",
+			"TextualMonoid",
+			" \n",
+			"PairsCount",
+			"p",
+			"ManagerTime",
+			"newcomm",
+			"fmax",
+			"ExpNumber",
+			"ExpCons",
+			"Function",
+			"add",
+			"600",
+			"rocketFired",
+			"renderString",
+			"gameStatus",
+			"startUpMessage",
+			"state",
+			"newState",
+			"State",
+			"my",
+			"mx",
+			"Params",
+			"many1",
+			"RPNEvaluator",
+			"pop'",
+			"push'",
+			"tovar_wh_kn",
+			"TOVAR_WH",
+			"OPERATION_15",
+			"OPERATION",
+			"sin",
+			"f3d",
+			"y",
+			"filename",
+			"\"data.txt\"",
+			"\"plot.png\"",
+			"TOVAR_WH",
+			"f",
+			"<|>",
+			"many",
+			" $",
+			"word",
+			"ident",
+			"include",
+			"l",
+			"repeat",
+			"ans",
+			"map",
+			"flip",
+			"Floating",
+			"splitFirstIter",
+			"splitIntoClasses",
+			"takeNInc",
+			"fltNotNegative"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/infection/oop/infection.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4530,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3416,
+								3416
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2052.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/geo2a/Workspace/mmcs/4_year_2_sem/ai/infection/oop/main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								273,
+								273
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 324.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.haskell_sublime_load":
+	{
+		"height": 112.0
+	},
+	"project": "solar-system-js.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"task.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Workspace/mmcs/bachelor/report/bachelor-report.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 264.0,
+		"selected_items":
+		[
+			[
+				"",
+				"complex"
+			],
+			[
+				"sep",
+				"sepby"
+			],
+			[
+				"man",
+				"many"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 116.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

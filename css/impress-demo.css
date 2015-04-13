@@ -168,6 +168,10 @@ a:focus {
     height: 600px;
 }
 
+.step pre {
+    font-size: 0.3em;
+}
+
 .impress-enabled .step {
     margin: 0;
     opacity: 0.3;
@@ -220,6 +224,11 @@ a:focus {
 
 .slide q strong {
     white-space: nowrap;
+}
+
+.slide ul li {
+    font-size: 50px;
+    margin: 40px;
 }
 
 /*
